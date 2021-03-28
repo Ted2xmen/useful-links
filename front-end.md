@@ -14,3 +14,6 @@ permalink: /front-end/
 
 
 [How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/){:target="_blank"}
+
+
+<a href="https://htmlreference.io/" target="_blank">A free guide to HTML</a>
