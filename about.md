@@ -39,13 +39,10 @@ permalink: /about/
 </div>
 </center>
 
+[tamam][ted-ted]
 
 
 
-# [Github Repo](https://github.com/Ted2xmen/ted-minima) 
-
-
-# You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
@@ -55,5 +52,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+[ted-ted]: www.sagopa.com
 
 
