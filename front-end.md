@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Front-End
+title: Front End
 permalink: /front-end/
 ---
 
-# Front End Resources
+#  Resources
