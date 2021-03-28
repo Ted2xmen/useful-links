@@ -7,10 +7,10 @@ permalink: /front-end/
 #  Resources
 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+ 
+
+[A free guide to HTML](https://htmlreference.io/)
+
+
+[How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
