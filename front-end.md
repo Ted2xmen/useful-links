@@ -22,8 +22,3 @@ permalink: /front-end/
 
 
 
--  <a href="https://htmlreference.io/" target="_blank">A free guide to HTML</a>
-
-- <a href="https://htmlreference.io/" target="_blank">A free guide to HTML</a>
-
-- <a href="https://htmlreference.io/" target="_blank">A free guide to HTML</a>
