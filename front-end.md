@@ -10,7 +10,7 @@ permalink: /front-end/
 
  
 
-[A free guide to HTML](https://htmlreference.io/)
+[A free guide to HTML](https://htmlreference.io/){:target="_blank"}
 
 
-[How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+[How to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/){:target="_blank"}
