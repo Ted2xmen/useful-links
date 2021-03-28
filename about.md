@@ -28,21 +28,21 @@ permalink: /about/
 <h2>Card</h2>
 
 <div class="card">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <img src="../assets/images/ted.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Tugrul Erdem Dogru</b></h4> 
-    <p> [Github Repo](https://github.com/Ted2xmen/ted-minima) </p> 
+    <p>
+<div class="social-links">
+      {%- include social.html -%}
+    </div> </p> 
   </div>
 </div>
 
-<div class="social-links">
-      {%- include social.html -%}
-    </div>
 
 
 
 
-
+[Github Repo](https://github.com/Ted2xmen/ted-minima) 
 
 
 You can find the source code for Minima at GitHub:
