@@ -9,10 +9,7 @@
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg>
-            {%- assign default_paths = site.pages | map: "path" -%}
-
-            <span>Subscribe</span>
+            </svg><span>Subscribe</span>
           </a>
         </p>
       {%- if site.author %}
