@@ -5,7 +5,7 @@ permalink: /gallery/
 ---
 
 
-  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="../gallery.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="./gallery.css">
 
 </head>
 <body>
