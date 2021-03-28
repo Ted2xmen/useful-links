@@ -7,8 +7,8 @@ permalink: /gallery/
 
   <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="../assets/css/gallery.css">
 
-</head>
-<body>
+
+
 <!-- partial:index.partial.html -->
 <h1>Pure CSS Gallery</h1>
     <section class="gallery">
@@ -64,6 +64,3 @@ permalink: /gallery/
         </div>
     </section>
 <!-- partial -->
-  
-</body>
-</html>
