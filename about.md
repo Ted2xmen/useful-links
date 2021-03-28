@@ -39,7 +39,7 @@ permalink: /about/
 </div>
 </center>
 
-[tamam][ted-ted]
+[ted-ted][tamam]
 
 
 
