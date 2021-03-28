@@ -25,8 +25,8 @@ permalink: /about/
 
 
 
-<h2>Card</h2>
-
+<h2></h2>
+<center>
 <div class="card">
   <img src="../assets/images/ted.png" alt="Avatar" style="width:100%">
   <div class="container">
@@ -37,7 +37,7 @@ permalink: /about/
     </div> </p> 
   </div>
 </div>
-
+</center>
 
 
 
