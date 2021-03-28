@@ -25,7 +25,7 @@ permalink: /about/
 
 
 
-<h2></h2>
+
 <center>
 <div class="card">
   <img src="../assets/images/ted.png" alt="Avatar" style="width:100%">
@@ -42,10 +42,10 @@ permalink: /about/
 
 
 
-[Github Repo](https://github.com/Ted2xmen/ted-minima) 
+# [Github Repo](https://github.com/Ted2xmen/ted-minima) 
 
 
-You can find the source code for Minima at GitHub:
+# You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
