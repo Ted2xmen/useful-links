@@ -7,4 +7,12 @@
 #
 layout: home
 ---
+
+
+
+ {%- include footer.html -%}
+
+
+
+
 hhhh
