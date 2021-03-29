@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "My Learning Path "
+title: "My Learning Path: Useful Links for HTML and CSS "
 author: Tuğrul
 tags: html css javascript
 categories: blogging learning
-meta: 
-excerpt: "Useful Links"
+meta: My Learning Path Useful Links for HTML and CSS
+excerpt: 
 ---
 
 
