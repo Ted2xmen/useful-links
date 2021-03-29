@@ -10,7 +10,7 @@ layout: home
 
 
 
- {%- include footer.html -%}
+ {%- include banner.html -%}
 
 
 
