@@ -3,7 +3,7 @@ layout: post
 title: "My Learning Path: Useful Links for HTML and CSS "
 author: Tuğrul
 tags: html css javascript
-categories: blogging learning
+categories: links
 meta: My Learning Path Useful Links for HTML and CSS
 excerpt: 
 ---
