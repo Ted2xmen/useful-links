@@ -1,14 +1,12 @@
 ---
-layout: page
-title: Front End
-permalink: /front-end/
+layout: post
+title: "My Learning Path "
+author: Tuğrul
+tags: html css javascript
+categories: blogging learning
+meta: 
+excerpt: "Useful Links"
 ---
-
-#  Resources
-
-
-
- 
 
 
 
@@ -19,6 +17,3 @@ permalink: /front-end/
 
 
 - <a href="https://htmlreference.io/" target="_blank">A free guide to HTML</a>
-
-
-

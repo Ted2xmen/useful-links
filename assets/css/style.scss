@@ -10,17 +10,3 @@
 
 
 
-  .grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
-    gap: 0px 0px;
-    grid-template-areas:
-      "ted1 ted2 ted3 ted4"
-      ". . . ."
-      ". . . .";
-  }
-  .ted1 { grid-area: ted1; }
-  .ted2 { grid-area: ted2; }
-  .ted3 { grid-area: ted3; }
-  .ted4 { grid-area: ted4; }
