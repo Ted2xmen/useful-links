@@ -56,3 +56,7 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+
+ #sidebar
+default-image: ted.png
