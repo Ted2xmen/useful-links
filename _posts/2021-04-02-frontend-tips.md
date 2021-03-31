@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Front-End Tips "&#9889;" "
+title: " Front-End Tips "
 author: Tuğrul
 tags: html css javascript front-end
 categories: tips
